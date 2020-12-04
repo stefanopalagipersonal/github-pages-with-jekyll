@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Blog with GitHub Pages
 
-I'm glad you are here. I plan to talk about ...
+This is a test for my GitHub Pages training
+
+## About me
